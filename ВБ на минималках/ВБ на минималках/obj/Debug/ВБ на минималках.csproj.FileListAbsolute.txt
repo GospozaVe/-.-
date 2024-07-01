@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\bin\Debug\ВБ на минималках.exe.config
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\bin\Debug\ВБ на минималках.exe
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\bin\Debug\ВБ на минималках.pdb
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ на минималках.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ_на_минималках.Form1.resources
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ_на_минималках.Properties.Resources.resources
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ_на_минималках.Администратор.resources
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ на минималках.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ на минималках.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ на минималках.exe
+C:\Users\user\source\repos\ВБ на минималках\ВБ на минималках\obj\Debug\ВБ на минималках.pdb
